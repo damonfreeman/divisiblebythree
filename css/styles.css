@@ -1,0 +1,11 @@
+#wrapper {
+  background-color: lightblue;
+  margin: auto;
+  width: 400px;
+  height: auto;
+  text-align: center;
+}
+#numberfield {
+  word-wrap: break-word;
+  color: blue;
+}
